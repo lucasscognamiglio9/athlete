@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="856" height="28" viewBox="0 0 856 28" role="img" aria-label="Athlete product benefits">
+  <g fill="#30363d" stroke="#6e7681">
+    <rect width="158" height="28" rx="4"/>
+    <rect x="164" width="154" height="28" rx="4"/>
+    <rect x="324" width="128" height="28" rx="4"/>
+    <rect x="458" width="160" height="28" rx="4"/>
+    <rect x="624" width="108" height="28" rx="4"/>
+    <rect x="738" width="118" height="28" rx="4"/>
+  </g>
+  <g fill="#ffffff" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="13" font-weight="600" text-anchor="middle" dominant-baseline="middle">
+    <text x="79" y="14">End-to-End Coaching</text>
+    <text x="241" y="14">Full Training History</text>
+    <text x="388" y="14">Applied Evidence</text>
+    <text x="538" y="14">One-Message Logging</text>
+    <text x="678" y="14">One Live Sheet</text>
+    <text x="797" y="14">Inside ChatGPT</text>
+  </g>
+</svg>

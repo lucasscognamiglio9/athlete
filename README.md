@@ -1,8 +1,6 @@
 # Athlete
 
-**End-to-End Coaching** · **Full Training History** · **Applied Evidence** · **One-Message Logging** · **One Live Sheet** · **Inside ChatGPT**
-
-[Instalar Athlete](#instalación) · [Ver una sesión real](#una-sesión-real)
+![Athlete benefits](assets/athlete-benefits.svg)
 
 ![Athlete](assets/athlete-banner.png)
 
@@ -30,7 +28,7 @@ Tu perfil, plan, sesiones y decisiones quedan en una única Google Sheet. Athlet
    codex plugin marketplace add .
    ```
 
-2. Reiniciá ChatGPT Desktop e instalá **Athlete** y **Google Drive** desde Plugins.
+2. Reiniciá ChatGPT Desktop e instalá **Athlete** desde Plugins.
 
 3. Abrí un chat nuevo y escribí **“Quiero empezar con Athlete.”**
 
