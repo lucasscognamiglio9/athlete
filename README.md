@@ -1,15 +1,10 @@
 # Athlete
 
-![Athlete](assets/athlete-banner.png)
-
-![End-to-End Coaching](https://img.shields.io/badge/-End--to--End%20Coaching-2563EB?style=flat-square)
-![Full Training History](https://img.shields.io/badge/-Full%20Training%20History-0F766E?style=flat-square)
-![Applied Evidence](https://img.shields.io/badge/-Applied%20Evidence-7C3AED?style=flat-square)
-![One-Message Logging](https://img.shields.io/badge/-One--Message%20Logging-EA580C?style=flat-square)
-![One Live Sheet](https://img.shields.io/badge/-One%20Live%20Sheet-15803D?style=flat-square)
-![Inside ChatGPT](https://img.shields.io/badge/-Inside%20ChatGPT-111827?style=flat-square)
+**End-to-End Coaching** · **Full Training History** · **Applied Evidence** · **One-Message Logging** · **One Live Sheet** · **Inside ChatGPT**
 
 [Instalar Athlete](#instalación) · [Ver una sesión real](#una-sesión-real)
+
+![Athlete](assets/athlete-banner.png)
 
 Athlete es un coach personal de entrenamiento que funciona dentro de ChatGPT.
 
@@ -29,15 +24,15 @@ Tu perfil, plan, sesiones y decisiones quedan en una única Google Sheet. Athlet
 
 ## Instalación
 
-Descargá este repositorio. Desde su carpeta ejecutá
+1. Descargá este repositorio y, desde su carpeta, ejecutá
 
-```bash
-codex plugin marketplace add .
-```
+   ```bash
+   codex plugin marketplace add .
+   ```
 
-Reiniciá ChatGPT Desktop. Instalá **Athlete** y **Google Drive** desde Plugins.
+2. Reiniciá ChatGPT Desktop e instalá **Athlete** y **Google Drive** desde Plugins.
 
-Abrí un chat nuevo y escribí **“Quiero empezar con Athlete.”**
+3. Abrí un chat nuevo y escribí **“Quiero empezar con Athlete.”**
 
 ## Acerca de Athlete
 
