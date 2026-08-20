@@ -1,0 +1,4 @@
+interface:
+  display_name: "Training Log"
+  short_description: "Record completed training accurately"
+  default_prompt: "Use $training-log to record the workout I just completed."

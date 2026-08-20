@@ -1,0 +1,4 @@
+interface:
+  display_name: "Progress Review"
+  short_description: "Review trends and decide what comes next"
+  default_prompt: "Use $progress-review to review my training and decide what comes next."

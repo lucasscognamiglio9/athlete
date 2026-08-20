@@ -1,0 +1,20 @@
+{
+  "name": "athlete",
+  "interface": {
+    "displayName": "Athlete"
+  },
+  "plugins": [
+    {
+      "name": "athlete",
+      "source": {
+        "source": "local",
+        "path": "./plugins/athlete"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    }
+  ]
+}

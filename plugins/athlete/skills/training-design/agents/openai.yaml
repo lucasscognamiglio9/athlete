@@ -1,0 +1,4 @@
+interface:
+  display_name: "Training Design"
+  short_description: "Create or adapt an evidence-based plan"
+  default_prompt: "Use $training-design to build or adapt my training plan."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Athlete Onboarding"
+  short_description: "Build the athlete model and canonical file"
+  default_prompt: "Use $athlete-onboarding to set up my coaching profile and training file."

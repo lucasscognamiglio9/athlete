@@ -1,0 +1,4 @@
+interface:
+  display_name: "Session Coaching"
+  short_description: "Prepare and guide the current session"
+  default_prompt: "Use $session-coaching to show and guide today’s training session."

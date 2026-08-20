@@ -1,0 +1,24 @@
+{
+  "name": "athlete",
+  "version": "0.1.0",
+  "description": "A personalized evidence-based coach that makes complex gym training simple.",
+  "author": {
+    "name": "Lucas"
+  },
+  "license": "MIT",
+  "keywords": ["coach", "training", "strength", "fitness", "workout-log"],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Athlete",
+    "shortDescription": "Make complex training simple.",
+    "longDescription": "One adaptive evidence-based coach for gym training, from planning through live guidance, verified logging, review, and progression.",
+    "developerName": "Lucas",
+    "category": "Productivity",
+    "capabilities": ["Interactive", "Write"],
+    "defaultPrompt": [
+      "Show me today's training session.",
+      "Record the workout I just completed.",
+      "Review my progress and suggest what comes next."
+    ]
+  }
+}
