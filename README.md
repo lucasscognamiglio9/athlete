@@ -1,8 +1,8 @@
 # Athlete
 
-![Athlete — coach personal de entrenamiento dentro de ChatGPT](assets/athlete-banner-favorite-v6.png)
-
 ## Terminás de entrenar, hablás con tu coach y él hace el resto.
+
+![Athlete — coach personal de entrenamiento dentro de ChatGPT](assets/athlete-banner.png)
 
 [Instalar Athlete](#instalación) · [Ver cómo funciona](#una-sesión-real)
 
