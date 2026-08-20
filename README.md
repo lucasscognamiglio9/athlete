@@ -1,6 +1,6 @@
 # Athlete
 
-![Athlete benefits](assets/athlete-benefits.svg)
+![End-to-End Coaching](https://img.shields.io/badge/-End--to--End%20Coaching-30363D?style=flat-square) ![Full Training History](https://img.shields.io/badge/-Full%20Training%20History-30363D?style=flat-square) ![Applied Evidence](https://img.shields.io/badge/-Applied%20Evidence-30363D?style=flat-square) ![One-Message Logging](https://img.shields.io/badge/-One--Message%20Logging-30363D?style=flat-square) ![One Live Sheet](https://img.shields.io/badge/-One%20Live%20Sheet-30363D?style=flat-square) ![Inside ChatGPT](https://img.shields.io/badge/-Inside%20ChatGPT-30363D?style=flat-square)
 
 ![Athlete](assets/athlete-banner.png)
 
