@@ -18,14 +18,9 @@ Athlete interpreta el mensaje, pregunta sólo si falta algo importante, registra
 
 > conocer → planificar → entrenar → registrar → revisar → adaptar
 
-No necesitás completar formularios, ordenar columnas ni aprender comandos.
-
 ## Qué puede hacer
 
-- Crear un plan ajustado a vos y modificarlo cuando cambie tu contexto.
-- Mostrarte la sesión y ayudarte a decidir cuando algo cambia durante el entrenamiento.
-- Registrar, corregir y detectar posibles duplicados sin completar lo que no contaste.
-- Revisar tendencias, preparar la próxima progresión y explicar la evidencia relevante.
+Athlete crea y adapta tu plan, acompaña cada sesión, registra lo que hiciste y revisa tu progreso.
 
 ## Cómo conserva tu progreso
 
@@ -74,4 +69,4 @@ Un único coach se ocupa de conocerte, planificar, acompañarte, registrar lo qu
 
 Athlete adapta al coaching patrones de [Skills for Real Engineers](https://github.com/mattpocock/skills) de Matt Pocock, especialmente sus skills pequeñas y los métodos `grill-me`/`grilling` y `research`.
 
-[Compatibilidad](docs/release/compatibility.md) · [Licencia MIT](LICENSE)
+[Licencia MIT](LICENSE)
